@@ -1,5 +1,6 @@
 # v35_CC100_ModbusRemoteIO
 Sample code to configure WAGO CC100 as ModbusRemoteIO
+Also Included : Sample Node-RED flow to test Modbus connection. 
 
 Codesys v3.5 Version : SP16 Patch 3
 
